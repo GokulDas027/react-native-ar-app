@@ -11,4 +11,6 @@ Any further queries shall be asked in the issues.
 as a final note, it is paninful to use this combo, flutter is better. just personal preference as a beginner.
 
 run app by
+```
  react-native run-android --variant ArDebug
+```
